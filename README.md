@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Gurpreet!<br>I’m a graduate student and software enthusiast with a background in Computer Engineering, passionate about building intelligent, scalable, and data-driven solutions.<br>I’m currently working on:<br>AI-powered applications, full-stack projects, and data-driven systems that solve real-world problems.<br>I’m looking to collaborate on:<br>Open-source projects in AI/ML, data analytics, software development, and automation tools.<br><br>I’m looking for help with:<br>Advanced system design, scalable backend architectures, and ML model optimization.<br>I’m currently learning:<br>Machine learning, data science workflows, cloud technologies, and distributed systems.<br>Ask me about:<br>Python,C++, Java, data analytics, science, system design,REST APIs, AI projects
+Hi, I’m Gurpreet!<br>I’m a graduate student and software enthusiast with a background in Computer Engineering, passionate about building intelligent, scalable, and data-driven solutions.<br>Currently working on:<br>AI-powered applications, full-stack projects, and data-driven systems that solve real-world problems.<br>I’m looking to collaborate on:<br>Open-source projects in AI/ML, data analytics, software development, and automation tools.
 
 
 ## 🌐 Socials:
